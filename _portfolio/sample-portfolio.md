@@ -1,6 +1,6 @@
 ---
-title: "MultiBlog"
-excerpt: "Udacity Full Stack Web Development Multi User Blog Project"
+title: "Sample Portfolio"
+excerpt: "Udacity FSND Portfolio Propject"
 header:
   image: /assets/images/foo-bar-identity.jpg
   teaser: /assets/images/foo-bar-identity-th.jpg
@@ -25,7 +25,7 @@ gallery:
 
 **Assignment**:
 
-Develop a Python blog app that supports multiple users with the ability to comment on others posts.  Users must be logged in to view and comment on posts.
+Build a portfolio website with HTML and CSS from the provided mockup. Website must be responsive and include images, description and links to projects.
 
 {% include gallery caption="Photobomb Screen Shots" %}
 
@@ -33,19 +33,7 @@ Develop a Python blog app that supports multiple users with the ability to comme
 
 MultiBlog is a basic multi-user blogging site that allows users to create accounts and then share blog posts.  Cookies are used for user authentication.  As an extra in the assignment, I added the ability for users to 'like' each others posts.
 
-Build registration functionality with validation and error messages
-Build a login/logout system with cookies for authentication
-
-
 **Technologies**:
 
-* Python 2.7
-* Google App Engine
-* webapp2
-* Jinja2
 * HTML
 * CSS
-
-Why is this important to my career?
-Being able to design and implement features on your own is an essential skill.
-Being able to quickly learn and utilize new frameworks is another essential skill.

@@ -40,7 +40,14 @@ Aurora Newmarket Restaurants uses Google Maps API to map several restaurants in 
 * Knockout
 * Google Maps API
 * Facebook Places API
+* HTML
+* CSS
+
+How does this help my Career?
+Interacting with API servers is the primary function of Front-End Web Developers
+Use of third-party libraries and APIs is a standard and acceptable practice that is encouraged
+Asynchronous programming is important to understand in today's market
 
 **Reflection**:
 
-Although making the decision to try out React for the frontend of the project meant that I spent a lot more time than I estimated to complete it, I am really glad that I decided to stretch the expectations of the project.   While self learning react for this project, I discovered a love for it, and out of a desire to learn more about best practices I enrolled in Udacity's React program which I am currently working on completing.
+Although making the decision to try out React for the front-end of the project meant that I spent a lot more time than I estimated to complete it, I am really glad that I decided to stretch the expectations of the project.   While self learning React for this project I discovered a love for it, and out of a desire to learn more about best practices I enrolled in Udacity's React program which I am currently working on completing.

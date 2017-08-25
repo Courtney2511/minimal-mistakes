@@ -39,8 +39,14 @@ The project required that I implement one API endpoint for an arbitrary item in 
 
 * Python 2.7
 * Flask
-* React
+* React.js
 * Redux
+* HTML
+* CSS
+
+How Does This Help My Career?
+Efficiently interacting with data is the backbone upon which performant web applications are built
+Properly implementing authentication mechanisms and appropriately mapping HTTP methods to CRUD operations are core features of a properly secured web application
 
 **Reflection**:
 
