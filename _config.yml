@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Courtney Noonan's Amazing Site"
+title                    : "Courtney Noonan - Full Stack Web Developer"
 title_separator          : "-"
 name                     : "Courtney Noonan"
 description              : "stuff and things"
-url                      : "" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://courtney2511.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "courtney2511/courtney2511.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -89,19 +89,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "courtney2511"
   gitlab           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "courtneynoonan2511"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "@courtneyn2511"
   vine             :
   weibo            :
   xing             :
@@ -232,6 +232,7 @@ compress_html:
     envs: development
 
 
+# Collections
 collections:
   portfolio:
     output: true
